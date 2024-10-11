@@ -22,7 +22,7 @@ library(ggplot2)
 knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
-_The width of each bar is different so the graph is _
+_The width of each bar is different so the graph has a misleading visualisation about the relative numbers of the language speakers._
 
 
 
@@ -34,7 +34,7 @@ _The width of each bar is different so the graph is _
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-_Write your comments about image 2 below_
+_A lack of key so the reader will not understands the use of the pie chart, and the meaning of the size and the colour of each piece of pie._
 
 
 
@@ -45,7 +45,7 @@ _Write your comments about image 2 below_
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
-_Write your comments about image 3 below_
+_Too complicated visualisation!! The labels are also blur so the information there is vague._
 
 
 
@@ -56,7 +56,7 @@ _Write your comments about image 3 below_
 knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
-_Write your comments about image 4 below_
+_Non-standard y-axis so the representation of total income for each country is confusing to the reader. It is hard to see the relative amount of income between countries._
 
 
 
